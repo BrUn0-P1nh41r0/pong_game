@@ -3,7 +3,6 @@ from turtle import Turtle
 MOVE_DISTANCE = 20
 UP = 90
 DOWN = 270
-
 WIDTH = 5
 LENGTH = 1
 
